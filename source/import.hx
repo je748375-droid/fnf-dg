@@ -1,0 +1,1 @@
+#if(!macro) import Paths; #end // fixes the you cannot access the flash package while at macro error
